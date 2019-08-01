@@ -1,5 +1,5 @@
 # installjava8
-installs java8 and removes other java instances
+installs java8 on ubuntu and removes other java instances
 ## Instructions
 1. download the shell script and java 8 tarball
 2. move the tarball to the folder containing the shell script
